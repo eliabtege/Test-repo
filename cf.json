@@ -18,6 +18,10 @@
                  "AvailabilityZone" : "us-east-1a",
                  "Tags" : [ { "Key" : "stack", "Value" : "dev" } ]
                 }
+
+
+
+
+                Rearrange
              }
-         }
         }
