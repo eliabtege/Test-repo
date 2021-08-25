@@ -1,5 +1,11 @@
 {
     "Resource" : {
-        
+        "Theory" : { 
+            "Type" : "AWS::EC2::VPC",
+            "Properties" : {
+                
+            }
+        }
+
     }
 }
